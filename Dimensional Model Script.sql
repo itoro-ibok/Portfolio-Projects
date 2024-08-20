@@ -1,3 +1,5 @@
+--For Full Article click here: https://medium.com/@ibokitoro/dimensional-modeling-with-star-schema-6a62ac1b0810
+
 CREATE DATABASE DA_iTee;
 GO
 
