@@ -1,3 +1,5 @@
+# For Full Article Click Here: https://medium.com/@ibokitoro/identifying-outliers-in-2023-yobe-state-election-result-8ad47ed7ba69
+
 Python Code.txt
 import pandas as pd
 import numpy as np
